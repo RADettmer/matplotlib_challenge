@@ -6,4 +6,4 @@ The data was from . . .
 
 ### Observations and Insights
 
-here
+Here are my observations. 1) There were ten drug regimens used to treat SCC tumor growth over 45 days. of these, Capomulin seemed to be the most responsive to reduce the tumor volume with Ramicane comeing in second. 2) Of the animal study, the sex of the mice were closely split 50.6% male and 49.4% female. 3) Reviewing the scatter diagram and regression line, Capolmulin again showed a strong correlation with an r-squared value of 0.841. 4) Suprisingly, in reviewing the box plots, I could not find any outliers in this data set. I even ran one drug by itself to verify. I left this in the code.
