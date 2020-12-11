@@ -13,4 +13,5 @@ Here are my observations.
 3) Reviewing the scatter diagram and regression line, Capolmulin again showed a strong correlation with an r-squared value of 0.841. 
 4) Suprisingly, in reviewing the box plots, I could not find any outliers in this data set. I even ran one drug by itself to verify. I left this in the code.
 <p/>
-https://github.com/RADettmer/matplotlib_challenge/blob/master/image/ScatterDiagram.png?raw=true
+https://github.com/RADettmer/matplotlib_challenge/blob/master/images/ScatterDiagram.png?raw=true
+![Alt text](https://github.com/RADettmer/matplotlib_challenge/images/Pie_Panda.png)
