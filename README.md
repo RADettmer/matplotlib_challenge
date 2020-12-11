@@ -14,4 +14,5 @@ Here are my observations.
 4) Suprisingly, in reviewing the box plots, I could not find any outliers in this data set. I even ran one drug by itself to verify. I left this in the code.
 <p/>
 https://github.com/RADettmer/matplotlib_challenge/blob/master/images/ScatterDiagram.png?raw=true
-![Alt text](https://github.com/RADettmer/matplotlib_challenge/images/Pie_Panda.png)
+
+![alt text](https://github.com/RADettmer/matplotlib_challenge/blob/master/images/ScatterDiagramRegression.png)
